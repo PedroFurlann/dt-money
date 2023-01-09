@@ -19,7 +19,7 @@ export const HeaderContent = styled.div`
 export const NewTransactionButton = styled.button`
   height: 50px;
   border: 0;
-  background: ${(props) => props.theme['green-500']};
+  background-color: ${(props) => props.theme['green-500']};
   color: ${(props) => props.theme.white};
   font-weight: bold;
   padding: 0 1.25rem;
@@ -27,7 +27,7 @@ export const NewTransactionButton = styled.button`
   cursor: pointer;
 
   &:hover {
-    background: ${(props) => props.theme['green-700']};
+    background-color: ${(props) => props.theme['green-700']};
     transition: backgorund-color 0.2s;
   }
 `
