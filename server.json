@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 149.99,
       "createdAt": "2023-01-10T00:01:44.430Z"
+    },
+    {
+      "description": "Desenvolvimento landing page",
+      "price": 3000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-11T10:11:46.739Z",
+      "id": 4
+    },
+    {
+      "description": "Contra filé",
+      "price": 40,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-11T10:37:05.578Z",
+      "id": 5
     }
   ]
 }
